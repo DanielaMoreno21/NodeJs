@@ -1,17 +1,17 @@
 {
   "name": "nodefilesmorenodaniela",
   "version": "10.15.3",
-  "description": "simple web app\u001b[D\u001b[D\u001b[D\u001b[\u001b[CApp",
-  "main": "FileSystem.js",
+  "description": "simple web app",
+  "main": "pages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielaMoreno21/NodeJs.git"
+    "url": "git+https//github.com/DanielaMoreno21/NodeJs.git"
   },
   "author": "Moreno Daniela",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DanielaMoreno21/NodeJs/issues"
   },
